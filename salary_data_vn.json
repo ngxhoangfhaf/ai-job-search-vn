@@ -1,0 +1,760 @@
+{
+  "metadata": {
+    "source": "Vietnam Tech Salary Survey 2025",
+    "index_baseline": 100.0,
+    "index_label": "Index",
+    "baseline_description": "Index 100 = median salary for mid-level engineer (~35M VND/month)"
+  },
+  "companies": [
+    {
+      "company": "Techcombank",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 45.0
+        },
+        "junior_index": {
+          "index": 65.0
+        },
+        "mid_count": {
+          "index": 32.0
+        },
+        "mid_index": {
+          "index": 95.0
+        },
+        "senior_count": {
+          "index": 28.0
+        },
+        "senior_index": {
+          "index": 135.0
+        },
+        "lead_count": {
+          "index": 12.0
+        },
+        "lead_index": {
+          "index": 180.0
+        }
+      }
+    },
+    {
+      "company": "VPBank",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 38.0
+        },
+        "junior_index": {
+          "index": 68.0
+        },
+        "mid_count": {
+          "index": 29.0
+        },
+        "mid_index": {
+          "index": 100.0
+        },
+        "senior_count": {
+          "index": 25.0
+        },
+        "senior_index": {
+          "index": 140.0
+        },
+        "lead_count": {
+          "index": 10.0
+        },
+        "lead_index": {
+          "index": 185.0
+        }
+      }
+    },
+    {
+      "company": "MBBank",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 32.0
+        },
+        "junior_index": {
+          "index": 62.0
+        },
+        "mid_count": {
+          "index": 28.0
+        },
+        "mid_index": {
+          "index": 98.0
+        },
+        "senior_count": {
+          "index": 22.0
+        },
+        "senior_index": {
+          "index": 130.0
+        },
+        "lead_count": {
+          "index": 8.0
+        },
+        "lead_index": {
+          "index": 175.0
+        }
+      }
+    },
+    {
+      "company": "TPBank",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 28.0
+        },
+        "junior_index": {
+          "index": 60.0
+        },
+        "mid_count": {
+          "index": 25.0
+        },
+        "mid_index": {
+          "index": 95.0
+        },
+        "senior_count": {
+          "index": 20.0
+        },
+        "senior_index": {
+          "index": 128.0
+        },
+        "lead_count": {
+          "index": 6.0
+        },
+        "lead_index": {
+          "index": 170.0
+        }
+      }
+    },
+    {
+      "company": "Viettel Solutions",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 42.0
+        },
+        "junior_index": {
+          "index": 70.0
+        },
+        "mid_count": {
+          "index": 35.0
+        },
+        "mid_index": {
+          "index": 105.0
+        },
+        "senior_count": {
+          "index": 30.0
+        },
+        "senior_index": {
+          "index": 145.0
+        },
+        "lead_count": {
+          "index": 15.0
+        },
+        "lead_index": {
+          "index": 190.0
+        }
+      }
+    },
+    {
+      "company": "FPT Software",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 50.0
+        },
+        "junior_index": {
+          "index": 58.0
+        },
+        "mid_count": {
+          "index": 45.0
+        },
+        "mid_index": {
+          "index": 92.0
+        },
+        "senior_count": {
+          "index": 40.0
+        },
+        "senior_index": {
+          "index": 125.0
+        },
+        "lead_count": {
+          "index": 20.0
+        },
+        "lead_index": {
+          "index": 175.0
+        }
+      }
+    },
+    {
+      "company": "FPT Software",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 48.0
+        },
+        "junior_index": {
+          "index": 60.0
+        },
+        "mid_count": {
+          "index": 42.0
+        },
+        "mid_index": {
+          "index": 95.0
+        },
+        "senior_count": {
+          "index": 38.0
+        },
+        "senior_index": {
+          "index": 128.0
+        },
+        "lead_count": {
+          "index": 18.0
+        },
+        "lead_index": {
+          "index": 178.0
+        }
+      }
+    },
+    {
+      "company": "VinBigData",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 10.0
+        },
+        "junior_index": {
+          "index": 80.0
+        },
+        "mid_count": {
+          "index": 8.0
+        },
+        "mid_index": {
+          "index": 125.0
+        },
+        "senior_count": {
+          "index": 6.0
+        },
+        "senior_index": {
+          "index": 165.0
+        },
+        "lead_count": {
+          "index": 2.0
+        },
+        "lead_index": {
+          "index": 230.0
+        }
+      }
+    },
+    {
+      "company": "VinAI",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 8.0
+        },
+        "junior_index": {
+          "index": 85.0
+        },
+        "mid_count": {
+          "index": 6.0
+        },
+        "mid_index": {
+          "index": 130.0
+        },
+        "senior_count": {
+          "index": 5.0
+        },
+        "senior_index": {
+          "index": 180.0
+        },
+        "lead_count": {
+          "index": 2.0
+        },
+        "lead_index": {
+          "index": 250.0
+        }
+      }
+    },
+    {
+      "company": "VinBigData",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 8.0
+        },
+        "junior_index": {
+          "index": 82.0
+        },
+        "mid_count": {
+          "index": 6.0
+        },
+        "mid_index": {
+          "index": 128.0
+        },
+        "senior_count": {
+          "index": 4.0
+        },
+        "senior_index": {
+          "index": 170.0
+        },
+        "lead_count": {
+          "index": 1.0
+        },
+        "lead_index": {
+          "index": 240.0
+        }
+      }
+    },
+    {
+      "company": "FPT AI",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 12.0
+        },
+        "junior_index": {
+          "index": 75.0
+        },
+        "mid_count": {
+          "index": 10.0
+        },
+        "mid_index": {
+          "index": 120.0
+        },
+        "senior_count": {
+          "index": 8.0
+        },
+        "senior_index": {
+          "index": 158.0
+        },
+        "lead_count": {
+          "index": 3.0
+        },
+        "lead_index": {
+          "index": 220.0
+        }
+      }
+    },
+    {
+      "company": "Viettel AI",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 10.0
+        },
+        "junior_index": {
+          "index": 75.0
+        },
+        "mid_count": {
+          "index": 8.0
+        },
+        "mid_index": {
+          "index": 115.0
+        },
+        "senior_count": {
+          "index": 6.0
+        },
+        "senior_index": {
+          "index": 155.0
+        },
+        "lead_count": {
+          "index": 2.0
+        },
+        "lead_index": {
+          "index": 210.0
+        }
+      }
+    },
+    {
+      "company": "Shopee DevOps",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 15.0
+        },
+        "junior_index": {
+          "index": 78.0
+        },
+        "mid_count": {
+          "index": 12.0
+        },
+        "mid_index": {
+          "index": 125.0
+        },
+        "senior_count": {
+          "index": 10.0
+        },
+        "senior_index": {
+          "index": 165.0
+        },
+        "lead_count": {
+          "index": 4.0
+        },
+        "lead_index": {
+          "index": 225.0
+        }
+      }
+    },
+    {
+      "company": "TikTok DevOps",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 12.0
+        },
+        "junior_index": {
+          "index": 80.0
+        },
+        "mid_count": {
+          "index": 10.0
+        },
+        "mid_index": {
+          "index": 128.0
+        },
+        "senior_count": {
+          "index": 8.0
+        },
+        "senior_index": {
+          "index": 170.0
+        },
+        "lead_count": {
+          "index": 3.0
+        },
+        "lead_index": {
+          "index": 235.0
+        }
+      }
+    },
+    {
+      "company": "Grab DevOps",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 10.0
+        },
+        "junior_index": {
+          "index": 75.0
+        },
+        "mid_count": {
+          "index": 8.0
+        },
+        "mid_index": {
+          "index": 122.0
+        },
+        "senior_count": {
+          "index": 6.0
+        },
+        "senior_index": {
+          "index": 160.0
+        },
+        "lead_count": {
+          "index": 2.0
+        },
+        "lead_index": {
+          "index": 220.0
+        }
+      }
+    },
+    {
+      "company": "VNG DevOps",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 12.0
+        },
+        "junior_index": {
+          "index": 75.0
+        },
+        "mid_count": {
+          "index": 10.0
+        },
+        "mid_index": {
+          "index": 120.0
+        },
+        "senior_count": {
+          "index": 8.0
+        },
+        "senior_index": {
+          "index": 158.0
+        },
+        "lead_count": {
+          "index": 3.0
+        },
+        "lead_index": {
+          "index": 220.0
+        }
+      }
+    },
+    {
+      "company": "VNG DevOps",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 10.0
+        },
+        "junior_index": {
+          "index": 73.0
+        },
+        "mid_count": {
+          "index": 8.0
+        },
+        "mid_index": {
+          "index": 118.0
+        },
+        "senior_count": {
+          "index": 6.0
+        },
+        "senior_index": {
+          "index": 155.0
+        },
+        "lead_count": {
+          "index": 2.0
+        },
+        "lead_index": {
+          "index": 218.0
+        }
+      }
+    },
+    {
+      "company": "LogiGear",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 20.0
+        },
+        "junior_index": {
+          "index": 60.0
+        },
+        "mid_count": {
+          "index": 15.0
+        },
+        "mid_index": {
+          "index": 95.0
+        },
+        "senior_count": {
+          "index": 10.0
+        },
+        "senior_index": {
+          "index": 128.0
+        },
+        "lead_count": {
+          "index": 4.0
+        },
+        "lead_index": {
+          "index": 175.0
+        }
+      }
+    },
+    {
+      "company": "Katalon",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 18.0
+        },
+        "junior_index": {
+          "index": 62.0
+        },
+        "mid_count": {
+          "index": 14.0
+        },
+        "mid_index": {
+          "index": 98.0
+        },
+        "senior_count": {
+          "index": 10.0
+        },
+        "senior_index": {
+          "index": 132.0
+        },
+        "lead_count": {
+          "index": 3.0
+        },
+        "lead_index": {
+          "index": 180.0
+        }
+      }
+    },
+    {
+      "company": "Kyanon Digital QA",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 12.0
+        },
+        "junior_index": {
+          "index": 58.0
+        },
+        "mid_count": {
+          "index": 8.0
+        },
+        "mid_index": {
+          "index": 92.0
+        },
+        "senior_count": {
+          "index": 5.0
+        },
+        "senior_index": {
+          "index": 122.0
+        },
+        "lead_count": {
+          "index": 2.0
+        },
+        "lead_index": {
+          "index": 165.0
+        }
+      }
+    },
+    {
+      "company": "Sotatek QA",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 15.0
+        },
+        "junior_index": {
+          "index": 55.0
+        },
+        "mid_count": {
+          "index": 10.0
+        },
+        "mid_index": {
+          "index": 88.0
+        },
+        "senior_count": {
+          "index": 6.0
+        },
+        "senior_index": {
+          "index": 118.0
+        },
+        "lead_count": {
+          "index": 2.0
+        },
+        "lead_index": {
+          "index": 162.0
+        }
+      }
+    },
+    {
+      "company": "NashTech QA",
+      "city": "Hà Nội",
+      "categories": {
+        "junior_count": {
+          "index": 20.0
+        },
+        "junior_index": {
+          "index": 60.0
+        },
+        "mid_count": {
+          "index": 15.0
+        },
+        "mid_index": {
+          "index": 95.0
+        },
+        "senior_count": {
+          "index": 10.0
+        },
+        "senior_index": {
+          "index": 128.0
+        },
+        "lead_count": {
+          "index": 4.0
+        },
+        "lead_index": {
+          "index": 175.0
+        }
+      }
+    },
+    {
+      "company": "Shopee PM",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 10.0
+        },
+        "junior_index": {
+          "index": 75.0
+        },
+        "mid_count": {
+          "index": 8.0
+        },
+        "mid_index": {
+          "index": 120.0
+        },
+        "senior_count": {
+          "index": 6.0
+        },
+        "senior_index": {
+          "index": 158.0
+        },
+        "lead_count": {
+          "index": 2.0
+        },
+        "lead_index": {
+          "index": 220.0
+        }
+      }
+    },
+    {
+      "company": "TikTok PM",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 8.0
+        },
+        "junior_index": {
+          "index": 78.0
+        },
+        "mid_count": {
+          "index": 6.0
+        },
+        "mid_index": {
+          "index": 125.0
+        },
+        "senior_count": {
+          "index": 4.0
+        },
+        "senior_index": {
+          "index": 162.0
+        },
+        "lead_count": {
+          "index": 1.0
+        },
+        "lead_index": {
+          "index": 225.0
+        }
+      }
+    },
+    {
+      "company": "Grab PM",
+      "city": "Hồ Chí Minh",
+      "categories": {
+        "junior_count": {
+          "index": 8.0
+        },
+        "junior_index": {
+          "index": 75.0
+        },
+        "mid_count": {
+          "index": 6.0
+        },
+        "mid_index": {
+          "index": 120.0
+        },
+        "senior_count": {
+          "index": 4.0
+        },
+        "senior_index": {
+          "index": 155.0
+        },
+        "lead_count": {
+          "index": 1.0
+        },
+        "lead_index": {
+          "index": 215.0
+        }
+      }
+    }
+  ]
+}
